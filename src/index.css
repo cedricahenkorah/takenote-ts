@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bgimage {
+  background-image: url("https://cdn.rareblocks.xyz/collection/clarity/images/hero/1/background-pattern.png");
+  background-size: cover;
+}
