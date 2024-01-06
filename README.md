@@ -16,7 +16,7 @@ This project is a TypeScript (TS) rebuild of [takenotes_frontend](https://github
 
 ## Installation
 
-1. \*\*Clone the repository
+1. **Clone the repository**
 
 ```shell
 
