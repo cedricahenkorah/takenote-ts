@@ -4,15 +4,15 @@
 
 This project is a TypeScript (TS) rebuild of [takenotes_frontend](https://github.com/cedricahenkorah/takenote-ts.git) that allows users to create, save and organize their notes seamlessly. In addition to basic note-taking functionality, the application is designed to include advanced features later in the future such as grouping notes into folders, sharing notes with others, and recording notes through speech-to-text technology. This README provides an overview of the application, installation instructions, usage guidelines, and a roadmap for future enhancements.
 
-![Alt text](src/assets/home_screenshot.jpeg)
+![Landing Page Screenshot](src/assets/home_screenshot.jpeg)
 
 ## Table of Contents
 
-- Installation and Set up(#installation)
-- Usage(#usage)
-- Features(#features)
-- Future Additions(#future-additions)
-- Contributing(#contributing)
+- [Installation and Set up](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Future Additions](#future-additions)
+- [Contributing](#contributing)
 
 ## Installation
 
