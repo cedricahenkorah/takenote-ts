@@ -15,7 +15,7 @@ interface AuthAction {
   payload?: object;
 }
 
-interface AuthContextProps {
+export interface AuthContextProps {
   user: AuthState;
   dispatch: Dispatch<AuthAction>;
 }
