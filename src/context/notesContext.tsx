@@ -21,7 +21,7 @@ interface NotesAction {
   payload?: Note;
 }
 
-interface NotesContextProps {
+export interface NotesContextProps {
   state: NotesState;
   dispatch: Dispatch<NotesAction>;
 }
