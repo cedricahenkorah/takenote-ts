@@ -18,7 +18,7 @@ const initialState: NotesState = {
 
 interface NotesAction {
   type: string;
-  payload?: Note;
+  payload?: Note | null;
 }
 
 export interface NotesContextProps {
