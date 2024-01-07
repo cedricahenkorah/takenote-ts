@@ -66,6 +66,7 @@ live web version: https://takenote-five.vercel.app/
 
 ## Future Additions
 
+- UI updates
 - Edit notes
 - Record notes with speech to text functionality
 - Organize notes into folders
