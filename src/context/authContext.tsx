@@ -7,7 +7,8 @@ import {
 } from "react";
 
 interface AuthState {
-  user: object | null | undefined;
+  username?: string;
+  user: { token: string; username: string } | object | null | undefined;
 }
 
 interface AuthAction {
